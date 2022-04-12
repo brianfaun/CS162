@@ -1,1 +1,2 @@
-# student232
+CS162 Brian Faun
+Operating Systems and System Programming
